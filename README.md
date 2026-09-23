@@ -68,19 +68,19 @@ Use the table below to keep track of your sources before submitting.
 
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
-| `74LS04` | TI | (here)[https://www.alldatasheet.com/datasheet-pdf/view/12617/ONSEMI/74LS04.html] | Yes / No | Yes / No |
-| `74LS08` | ___ | ___ | Yes | Yes |
-| `74LS32` | ___ | ___ | Yes / No | Yes / No |
-| `74LS74` | ___ | ___ | Yes / No | Yes / No |
-| `LM555` | ___ | ___ | Yes / No | Yes / No |
-
+| `74LS04` | TI | https://www.alldatasheet.com/datasheet-pdf/pdf/27365/TI/74LS04.html | Yes | Yes |
+| `74LS08` | TI | https://www.alldatasheet.com/datasheet-pdf/view/51024/FAIRCHILD/74LS08.html | Yes | Yes |
+| `74LS32` | TI | https://www.alldatasheet.com/datasheet-pdf/pdf/27420/TI/74LS32.html | Yes | Yes |
+| `74LS74` | HS | https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html | Yes | Yes |
+| `LM555` | TI | https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html | Yes | Yes / No |
 > **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
 
-<!-- IMAGE: Example IC datasheet connection diagram -->
+<img width="199" height="126" alt="image" src="https://github.com/user-attachments/assets/5cb50b66-3e3e-471a-aba0-8c73038a6548" />
 
-> **Image Placeholder:** Insert a screenshot or example of a datasheet function table here.
+> **Image Placeholder:** Insert a screenshot or example of a datasheet function table here
 
-<!-- IMAGE: Example IC datasheet function table -->
+<img width="182" height="95" alt="image" src="https://github.com/user-attachments/assets/eb7d56d7-0495-4eeb-9890-e8086f7799e4" />
+
 
 ---
 
@@ -106,9 +106,9 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Part Number | IC Name or Function | One Manufacturer |
 |---|---|---|
-| `DM74LS00` | ___ | ___ |
-| `SN74LS02` | ___ | ___ |
-| `DM74LS75` | ___ | ___ |
+| `DM74LS00` |  Quad 2-Input NAND Gate | DM |
+| `SN74LS02` | QUADRUPLE 2-INPUT POSITIVE-NOR GATES | TI |
+| `DM74LS75` | Quad Latch | DM |
 | `SN74LS86` | ___ | ___ |
 | `MAN6760` | ___ | ___ |
 
