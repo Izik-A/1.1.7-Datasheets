@@ -72,7 +72,7 @@ Use the table below to keep track of your sources before submitting.
 | `74LS08` | TI | https://www.alldatasheet.com/datasheet-pdf/view/51024/FAIRCHILD/74LS08.html | Yes | Yes |
 | `74LS32` | TI | https://www.alldatasheet.com/datasheet-pdf/pdf/27420/TI/74LS32.html | Yes | Yes |
 | `74LS74` | HS | https://www.alldatasheet.com/datasheet-pdf/view/64081/HITACHI/74LS74.html | Yes | Yes |
-| `LM555` | TI | https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html | Yes | Yes / No |
+| `LM555` | TI | https://www.alldatasheet.com/datasheet-pdf/view/791941/TI1/LM555.html | Yes | Yes |
 > **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
 
 <img width="199" height="126" alt="image" src="https://github.com/user-attachments/assets/5cb50b66-3e3e-471a-aba0-8c73038a6548" />
@@ -109,8 +109,8 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 | `DM74LS00` |  Quad 2-Input NAND Gate | DM |
 | `SN74LS02` | QUADRUPLE 2-INPUT POSITIVE-NOR GATES | TI |
 | `DM74LS75` | Quad Latch | DM |
-| `SN74LS86` | ___ | ___ |
-| `MAN6760` | ___ | ___ |
+| `SN74LS86` | QUADRUPLE 2-INPUT EXCLUSIVE-OR GATES | TI |
+| `MAN6760` | 0.560-INCH SEVEN SEGMENT DISPLAYS | DM |
 
 ## Research Notes
 
@@ -145,11 +145,17 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Gate Name or Function | Gate Symbol | 74LS Series Part Number |
 |---|---|---|
-| 3-input AND gate | ___ | ___ |
-| 3-input NAND gate | ___ | ___ |
-| 4-input AND gate | ___ | ___ |
-| 4-input NAND gate | ___ | ___ |
-| 3-input NOR gate | ___ | ___ |
+| 3-input AND gate | <img width="169" height="95" alt="image" src="https://github.com/user-attachments/assets/4305add7-d530-4c33-9371-681a61fe84a3" />
+ | 74ALS11A |
+| 3-input NAND gate | <img width="143" height="76" alt="image" src="https://github.com/user-attachments/assets/a153fe2c-6f10-427d-99fa-0bcbaeedaff1" />
+ | SN74LS10 |
+| 4-input AND gate | <img width="185" height="81" alt="image" src="https://github.com/user-attachments/assets/c99867df-63b5-4161-886a-edfb4b915468" />
+ | DM74LS21 |
+| 4-input NAND gate | <img width="260" height="162" alt="image" src="https://github.com/user-attachments/assets/7768cb77-be9b-417b-8793-d11bde1ba3fb" />
+ | 
+DM74LS40 |
+| 3-input NOR gate | <img width="412" height="143" alt="image" src="https://github.com/user-attachments/assets/76a7fc6d-0141-44aa-b2c0-cb743342e26d" />
+ | DM74LS27  |
 
 > **Image Placeholder:** Insert an image of your table from your engineering notebook here.
 
